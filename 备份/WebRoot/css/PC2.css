@@ -1,0 +1,100 @@
+.border-style{width: 1500px;
+height: 715px;
+opacity: 1;
+border-style:solid ;
+border-color: aqua;}
+.style-1{
+    line-height:30px;
+    background-color:rgba(37,42,46,1);
+    height:710px;
+    width:254px;
+    float:left;
+    padding:5px;
+	margin-top: -900px;}
+.font-style-1{
+	font-size: 36px;
+	color: white;
+	align:center;}
+.font-style-1:hover{color: #5FB878;}
+.font-style-2{width: 144px;
+height: 44px;
+opacity: 1;
+font-size: 36px;
+font-family: Noto Sans CJK SC;
+color: rgba(66,66,91,1);
+letter-spacing: 0px;
+position:absolute;
+left:330px;
+top:5px}
+.input-1{width: 380px;
+height: 40px;
+opacity: 1;
+background: rgba(254,255,255,1);
+border-radius: 13px 13px 13px 13px;
+position:absolute;
+left:330px;
+top:70px;
+font-size: 40px;}
+.font-style-3{width: 144px;
+height: 54px;
+opacity: 1;
+font-size: 36px;
+font-family: Noto Sans CJK SC;
+color: rgba(66,66,91,1);
+letter-spacing: 0px;
+position:absolute;
+left:330px;
+top:140px;}
+.textarea-1{width: 380px;
+height: 205px;
+opacity: 1;
+background: rgba(254,255,255,1);
+border-radius: 13px 13px 13px 13px;
+margin-top:-121px;
+margin-left:315px;
+font-size:20px;}
+.photo-1{width: 435px;
+height: 255px;
+opacity: 1;
+background: rgba(255,255,255,1);
+border-radius: 13px 13px 13px 13px;
+margin-left:268px;
+margin-bottom:-295px;}
+
+.font-style-4{width: 144px;
+height: 54px;
+opacity: 1;
+font-size: 36px;
+font-family: Noto Sans CJK SC;
+color: rgba(66,66,91,1);
+letter-spacing: 0px;
+position:absolute;
+left:900px;
+top:5px;}
+.button{width: 200px;
+height: 70px;
+opacity: 1;
+background: rgba(67,133,255,1);
+box-shadow: 0px 6px 10px 0px rgba(67,133,255,0.5);
+position:absolute;
+left:921px;
+top:620px;}
+.font-style-5{
+opacity: 1;
+font-size: 30px;
+font-family: Noto Sans CJK SC;
+color: rgba(254,255,255,1);
+letter-spacing: 0px;
+margin-top:12px;
+margin-left: 0px;}
+.rili{width: 556px;
+height: 780px;
+opacity: 1;
+background: rgba(255,255,255,1);
+margin-left:895px;
+margin-top:137px;}
+.yincang{margin-left:455px;
+margin-top:104px;
+width:243px;
+height:123px;
+opacity:0;}
